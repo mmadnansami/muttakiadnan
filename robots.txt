@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mmadnansami.github.io/muttakiadnan/sitemap.xml
